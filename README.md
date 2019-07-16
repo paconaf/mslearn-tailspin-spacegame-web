@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/paconaf/SpaceGameWeb/_apis/build/status/paconaf.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/paconaf/SpaceGameWeb/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
